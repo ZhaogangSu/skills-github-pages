@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog
+layout: post
 ---
 
 ## The Ultimate Truth
