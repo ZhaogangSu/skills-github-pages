@@ -2,11 +2,3 @@ theme: minima
 title: Personal Repo
 author: Z.G.Su
 description: Test for description
-
-# Enable MathJax globally
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      mathjax: true
