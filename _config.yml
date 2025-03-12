@@ -3,10 +3,10 @@ title: Personal Repo
 author: Z.G.Su
 description: Test for description
 
-# Enable MathJax globally
-defaults:
-  -
-    scope:
-      path: "" # This means all files
-    values:
-      mathjax: true
+# # Enable MathJax globally
+# defaults:
+#   -
+#     scope:
+#       path: "" # This means all files
+#     values:
+#       mathjax: true
